@@ -5,7 +5,7 @@
 
 <h3 align="center">About me 🍄 </h3>
 <h3 align="center">A passionate Ph.D. researcher from Brazil 🌱 who enjoys listenning to peoples stories</h3>
-<h3 align="center">A recent graduate in Data Science 😊 from Lighthouse Lab</h3>
+<h3 align="center">A recent graduate in Data Science 😊 from Lighthouse Lab who believes in a philosophical groundwork to create less biased machine learning models</h3>
 <h3 align="center">An avid reader of philosophical books 📚 and literature</h3>
 <h3 align="center">When I am not studying, you can see me around drinking coffee and dancing with my dog 🐶</h3>
 
