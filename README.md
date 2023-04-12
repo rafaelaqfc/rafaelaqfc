@@ -1,13 +1,13 @@
-
-<h1 align="center"> Hi, I'm Rafaela Cordeiro 👋</h1>
-
-</p>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-  
 </picture>
+
+<h1 align="center"> Hi, I'm Rafaela Cordeiro 👋</h1>
+
+</p>
+
 <h3 align="center">About me 🍄 </h3>
 <h3 align="center">A passionate Ph.D. researcher in Discourse Analysis 🌱 who enjoys listenning to peoples stories</h3>
 <h3 align="center">A recent graduate in Data Science 😊 from Lighthouse Lab who believes in a philosophical groundwork to create less biased machine learning models</h3>
