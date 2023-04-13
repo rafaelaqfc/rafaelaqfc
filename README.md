@@ -1,22 +1,17 @@
-<br>
+
 <br>
 <br>
 <h2 align="center">Hi, I'm Rafaela 👋 </h2>
-<h4 align="center">I am an independent researcher passionate about theories and driven by understanding people's desires and needs. My goal is to help them go through life using their own lens of experience with a bit of theory and reasoning.
+<h4 align="justify">As an independent researcher, I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :slightly_smiling_face:. My goal is to help individuals navigate through life using their own unique lens of experience, backed by theory and reasoning.
+
 <br>
 <br>
-<br>
-<h2 align="center">A little about myself</h2>
-<h4 align="center">I am a curious researcher and a recent graduate in Data Science</h4>     
-<h4 align="center">At the moment, I am updating the <a href="https://github.com/rafaelaqfc/Sentiment-Analysis-of-Medication-Reviews-Project.git">Sentiment Analysis of Medication Reviews</a> 🔭  project</h4> 
-<h4 align="center">🌱 Also, I’m currently learning <strong>R</strong> and <strong>PowerBI</strong></h4>
-<h4 align="center">Ask me about 💬 the relationship between  <strong>Discourse Analysis</strong>, <strong>Machine Learning</strong>, and <strong>Bias</strong> and I will love to share my points of view about it </h4>
-<h4 align="center">Out of curiosity ⚡, I have a Ph.D. in Linguistics, specifically in <strong>Discourse Analysis</strong></h4>
-<h4 align="center">I’m looking forward to collaborate 👯 on future <strong>NLP Projects</strong></h4>
+<h2 align="center">Some words about me</h2>
+<h4 align="justify">I recently graduated in Data Science and I'm currently updating my Sentiment Analysis of Medication Reviews 🔭 project. I'm also actively learning R and PowerBI 🌱 to enhance my skills. If you're interested, feel free to ask me about 💬 the relationship between Discourse Analysis, Machine Learning, and Bias, and I would be thrilled to share my insights on the topic. As a holder of a Ph.D. in Linguistics, specifically in Discourse Analysis, I am constantly fueled by curiosity ⚡. I am also eagerly looking forward to collaborating 👯 on future NLP projects.
+
 <br>
 <br>
-<br>
-<h2 align="center">Please, connect with me</h2>
+<h2 align="center">Please, connect with me :mushroom:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/rafaelaqfcordeiro" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelaqfcordeiro" height="30" width="30" style="margin-right: 10px;" />
@@ -57,15 +52,9 @@
 <br>
 
 <br>
-<h2 style="text-align: center;">My status</h2>
+<h2 align="center">My status</h2>
 <br>
-<p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&layout=compact" alt="rafaelaqfc" />
-<br>
-<p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en" alt="rafaelaqfc" />
-<br>
-<p align="center"> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelaqfc&" alt="rafaelaqfc" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&layout=compact" alt="rafaelaqfc" /><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en" alt="rafaelaqfc" /><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelaqfc&" alt="rafaelaqfc" /></p>
 <br>
