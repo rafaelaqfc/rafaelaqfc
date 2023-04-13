@@ -1,23 +1,21 @@
-<br>
-<br>
-<h3 align="justify"> Hi, I'm Rafaela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h3>
-<hr>
+### Hi, I'm Rafaela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
 <p h4 align="justify"> I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :slightly_smiling_face:. My goal is to help people navigate through life using their own unique lens of experience, backed by theory :thinking: and reasoning. </h4> </p>
 
 <br>
-<h3 align="justify"> Some words about me :shamrock: </h3>
-<hr>
-<p h4 align="justify"> 
+
+### Some words about me :shamrock:
+
 - I recently graduated in Data Science and I'm currently updating my Sentiment Analysis of Medication Reviews :telescope: project. 
 - I'm also actively learning Json and PowerBI :tanabata_tree: to enhance my skills. 
 - As a holder of a Ph.D. in Linguistics, specifically in Discourse Analysis, I am constantly fueled by curiosity ⚡. 
 - Feel free to ask me about :speech_balloon: the relationship between Discourse Analysis, Machine Learning, and Bias, and I would be thrilled to share my insights on the topic :hugs:. 
 - I am also eagerly looking forward to collaborating :dancers: on future NLP projects.
-- Whenever I have free time, I run to the kitchen to cook :stuffed_flatbread: or to the balcony to play with my :dog: </h4> </p>
+- Whenever I have free time, I run to the kitchen to cook :stuffed_flatbread: or to the balcony to play with my :dog:
 
 <br>
-<h3 align="justify">Please, connect with me :mushroom: </h3>
-<hr>
+
+### Please, connect with me :mushroom:
 
 <p align="justify">
   <a href="https://linkedin.com/in/rafaelaqfcordeiro" target="_blank">
