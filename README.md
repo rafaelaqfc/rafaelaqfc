@@ -1,15 +1,15 @@
 
 <br>
 
-### Hi, I'm Rafaela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi, I'm Rafaela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<p h4 align="justify"> I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :slightly_smiling_face:. My goal is to help people navigate through life using their own unique lens of experience :hugs:, backed by theory and reasoning. </h4> </p>
+<p h4 align="justify"> I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :honeybee:. My goal is to help people navigate through life using their own unique lens of experience :hugs:, backed by theory and reasoning. </h4> </p>
 
 <br>
 
-### Some words about me :shamrock:
+## Some words about me :shamrock:
 
-- I recently graduated in Data Science :disguised_face:.
+- I recently graduated in Data Science :disguised_face: from LightHouse Labs.
 - I'm currently updating my [Sentiment Analysis of Medication Reviews](https://github.com/rafaelaqfc/Sentiment-Analysis-of-Medication-Reviews-Project.git) :telescope: project.
 - I'm also actively learning R and PowerBI ⚡ to enhance my skills. 
 - As a holder of a Ph.D. in **Linguistics**, specifically in Discourse Analysis, I am constantly fueled by curiosity :speak_no_evil:. 
@@ -19,22 +19,18 @@
 
 <br>
 
-### Please, connect with me :mushroom:
+## Please, connect with me :mushroom:
 
  [![Linkedin Badge](https://img.shields.io/badge/-Rafaela-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelaqfcordeiro/)
  [![Mail Badge](https://img.shields.io/badge/-rqfcordeiro-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rqfcordeiro@gmail.com)
  
 <br>
 
-### Languages and tools :toolbox:
-
-<br>
+## Languages and tools :toolbox:
 
 #### Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-
-<br>
 
 #### Libraries, Frameworks and Environments
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
@@ -44,16 +40,12 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 
-<br>
-
 #### Systems and Clouds
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-
-<br>
 
 #### Databases
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
@@ -63,7 +55,7 @@
 
 <br>
 
-#### My status :rainbow:
+## My status :rainbow:
 <br>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
