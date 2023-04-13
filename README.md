@@ -6,7 +6,7 @@
 <br>
 <h3 align="center"> Some words about me :shamrock: </h3>
 <p h4 align="center"> I recently graduated in Data Science and I'm currently updating my Sentiment Analysis of Medication Reviews :telescope: project. 
-I'm also actively learning R and PowerBI :tanabata_tree: to enhance my skills. 
+I'm also actively learning Json and PowerBI :tanabata_tree: to enhance my skills. 
 If you're interested, feel free to ask me about :speech_balloon: the relationship between Discourse Analysis, Machine Learning, and Bias, and I would be thrilled to share my insights on the topic :hugs:. 
 As a holder of a Ph.D. in Linguistics, specifically in Discourse Analysis, I am constantly fueled by curiosity ⚡. 
 I am also eagerly looking forward to collaborating :dancers: on future NLP projects.
