@@ -4,8 +4,7 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  <h2 align="center">Hi, I'm Rafaela 👋 </h2>
-<h4 align="justify">As an independent researcher, I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :slightly_smiling_face:. My goal is to help individuals navigate through life using their own unique lens of experience, backed by theory and reasoning.
+  <the content goes here>
 </body>
 </html>
 
@@ -14,14 +13,14 @@
 <h2 align="center">Hi, I'm Rafaela 👋 </h2>
 <h4 align="justify">As an independent researcher, I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :slightly_smiling_face:. My goal is to help individuals navigate through life using their own unique lens of experience, backed by theory and reasoning.
 
-<link rel="stylesheet" type="text/css" href="styles.css">
-
+<br>
 <br>
 <br>
 <br>
 <h2 align="center">Some words about me</h2>
 <h4 align="justify">I recently graduated in Data Science and I'm currently updating my Sentiment Analysis of Medication Reviews 🔭 project. I'm also actively learning R and PowerBI 🌱 to enhance my skills. If you're interested, feel free to ask me about 💬 the relationship between Discourse Analysis, Machine Learning, and Bias, and I would be thrilled to share my insights on the topic. As a holder of a Ph.D. in Linguistics, specifically in Discourse Analysis, I am constantly fueled by curiosity ⚡. I am also eagerly looking forward to collaborating 👯 on future NLP projects.
 
+<br>
 <br>
 <br>
 <br>
@@ -35,7 +34,6 @@
   </a>  
 </p>
 
-<br>
 <br>
 <br>
 <h2 align="center">Languages and tools :toolbox:</h2>
