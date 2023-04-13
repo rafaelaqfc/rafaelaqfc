@@ -1,3 +1,6 @@
+
+<br>
+
 ### Hi, I'm Rafaela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <p h4 align="justify"> I am deeply passionate about theories and driven by my curiosity to understand people's desires and needs :slightly_smiling_face:. My goal is to help people navigate through life using their own unique lens of experience, backed by theory :thinking: and reasoning. </h4> </p>
@@ -6,28 +9,24 @@
 
 ### Some words about me :shamrock:
 
-- I recently graduated in Data Science and I'm currently updating my Sentiment Analysis of Medication Reviews :telescope: project. 
-- I'm also actively learning Json and PowerBI :tanabata_tree: to enhance my skills. 
-- As a holder of a Ph.D. in Linguistics, specifically in Discourse Analysis, I am constantly fueled by curiosity ⚡. 
-- Feel free to ask me about :speech_balloon: the relationship between Discourse Analysis, Machine Learning, and Bias, and I would be thrilled to share my insights on the topic :hugs:. 
-- I am also eagerly looking forward to collaborating :dancers: on future NLP projects.
+- I recently graduated in Data Science and I'm currently updating my **Sentiment Analysis of Medication Reviews** :telescope: project. 
+- I'm also actively learning R and PowerBI :tanabata_tree: to enhance my skills. 
+- As a holder of a Ph.D. in **Linguistics**, specifically in Discourse Analysis, I am constantly fueled by curiosity ⚡. 
+- Feel free to ask me about :speech_balloon: the relationship between **Discourse Analysis**, **Machine Learning**, and **Bias**, and I would be thrilled to share my insights on the topic :hugs:. 
+- I am also eagerly looking forward to collaborating :dancers: on future **NLP** projects.
 - Whenever I have free time, I run to the kitchen to cook :stuffed_flatbread: or to the balcony to play with my :dog:
 
 <br>
 
 ### Please, connect with me :mushroom:
 
-<p align="justify">
-  <a href="https://linkedin.com/in/rafaelaqfcordeiro" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelaqfcordeiro" height="30" width="30" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://medium.com/@rafaelaqfcordeiro" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafaelaqfcordeiro" height="30" width="30" style="margin-right: 10px;"/>
-  </a>  
-</p>
+ [![Linkedin Badge](https://img.shields.io/badge/-Rafaela-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelaqfcordeiro/)
+ [![Mail Badge](https://img.shields.io/badge/-rqfcordeiro-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rqfcordeiro@gmail.com)
+ 
 
 <br>
-<h3 align="center">Languages and tools :toolbox: </h3>
+
+<h3 align="center"> Languages and tools :toolbox: </h3>
 
 <h4 align="center"> Languages </h4> </p>
 <p align="center">
