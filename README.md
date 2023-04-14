@@ -58,6 +58,9 @@
 ## My coding stats :custard:
 <br>
 <!--START_SECTION:waka-->
+
+
+
 <!--END_SECTION:waka-->
 
 <br>
@@ -72,8 +75,22 @@
 <br>
 <br>
 
+<details>
+<summary>
+  More stuff about me :maple_leaf:
+</summary>
+
+<br>
+
 ## Quotes to be inspired of :star2:
 
 *"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore in *Promethea* (v. 5))
 
 *"Não preciso do fim para chegar. Do lugar one estou já fui embora"* (by Manoel de Barros in *Livro sobre Nada*)
+
+<br>
+
+</details>
+
+[journal]: https://www.visualcv.com/app/cvs/2977209/preview
+[resume]: 
