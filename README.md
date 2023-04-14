@@ -55,7 +55,7 @@
 
 <br>
 
-## My git status :rainbow:
+## Git status :rainbow:
 <p align="left">
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
@@ -79,18 +79,16 @@
   More stuff about me :maple_leaf: 
 </summary>
 
-#### My coding stats :custard:
-<br>
+#### Coding stats :custard:
 <!--START_SECTION:waka-->
+```
 
-
-
+```
 <!--END_SECTION:waka-->
+
 <br>
 
 #### If you are interested :lotus_position:
-<br>
-Here is Here is [my journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
-
-Here is [my resume] :clipboard:
+- Here is [my journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
+- Here is [my resume] :clipboard:
 
