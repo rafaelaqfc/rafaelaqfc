@@ -59,14 +59,11 @@
 <br>
 <!--START_SECTION:waka-->
 
-
-
 <!--END_SECTION:waka-->
 
 <br>
 
-## My status :rainbow:
-<br>
+## My git status :rainbow:
 <p align="left">
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
@@ -76,3 +73,7 @@
 <br>
 
 ## Quotes to be inspired of :star:
+
+*"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore)
+
+*"A maior riqueza do homem é a sua incompletude. Nesse ponto sou abastado. Palavras que me aceitam como sou - eu não aceito. Não agüento ser apenas um sujeito que abre portas, que puxa válvulas, que olha o relógio, que compra pão às 6 horas da tarde, que vai lá fora, que aponta lápis, que vê a uva etc. etc. Perdoai Mas eu preciso ser Outros.."* (by Manoel de Barros)
