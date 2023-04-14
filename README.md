@@ -55,7 +55,7 @@
 
 <br>
 
-## My coding stats
+## My coding stats :custard:
 <br>
 <!--START_SECTION:waka-->
 
@@ -72,7 +72,7 @@
 
 <br>
 
-## Quotes to be inspired of :star:
+## Quotes to be inspired of :star2:
 
 *"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore)
 
