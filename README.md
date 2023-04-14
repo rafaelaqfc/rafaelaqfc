@@ -58,7 +58,6 @@
 ## My coding stats :custard:
 <br>
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <br>
@@ -71,9 +70,10 @@
 </p>
 
 <br>
+<br>
 
 ## Quotes to be inspired of :star2:
 
-*"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore)
+*"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore in *Promethea* (v. 5))
 
-*"A maior riqueza do homem é a sua incompletude. Nesse ponto sou abastado. Palavras que me aceitam como sou - eu não aceito. Não agüento ser apenas um sujeito que abre portas, que puxa válvulas, que olha o relógio, que compra pão às 6 horas da tarde, que vai lá fora, que aponta lápis, que vê a uva etc. etc. Perdoai Mas eu preciso ser Outros.."* (by Manoel de Barros)
+*"Não preciso do fim para chegar. Do lugar one estou já fui embora"* (by Manoel de Barros in *Livro sobre Nada*)
