@@ -83,12 +83,15 @@
 <!--START_SECTION:waka-->
 ```
 
+
+
 ```
 <!--END_SECTION:waka-->
 
 <br>
 
 #### If you are interested :lotus_position:
-- Here is [my journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
-- Here is [my resume] :clipboard:
+- [My journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
+- [My resume] :clipboard:
+- [My portfolio]
 
