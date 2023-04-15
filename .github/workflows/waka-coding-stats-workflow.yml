@@ -13,7 +13,5 @@ jobs:
       - uses: rafaelaqfc/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Following flags are required, only if this is not on
-          # Profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: <rafaelaqfc/rafaelaqfc>
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # REPOSITORY: <rafaelaqfc/rafaelaqfc>
