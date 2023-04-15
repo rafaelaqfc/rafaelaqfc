@@ -81,11 +81,17 @@
 
 #### Coding stats :custard:
 <!--START_SECTION:waka-->
+
 ```text
+From: 13 April 2023 - To: 15 April 2023
 
+Total Time: 2 hrs 36 mins
 
-
+Markdown   1 hr 54 mins    >>>>>>>>>>>>>>>>>>-------   73.36 %
+YAML       31 mins         >>>>>--------------------   20.27 %
+Python     9 mins          >>-----------------------   06.37 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
