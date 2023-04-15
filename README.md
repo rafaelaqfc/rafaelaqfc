@@ -66,7 +66,7 @@
 
 <br>
 
-## Quotes to be inspired of :star2:
+## Quotes to be inspired :star2:
 
 *"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore in *Promethea* (v. 5))
 
