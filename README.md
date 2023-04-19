@@ -98,7 +98,7 @@ But you're saying anybody could explore this place if they wanted to?
 
 Yes, that's why Promethea's enemies find her so threatening. It's what she represents." (by Alan Moore in *Promethea* (v. 5))
 
-<br>
+<br> :fire:
 
 "Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.
 
@@ -108,11 +108,9 @@ A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida hu
 
    Cada persona brilla con luz propia entre todas las demás. No hay dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores. Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco, que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman; pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende." (by Eduardo Galeano in *El mundo*, published in *El libro de los abrazos*)
 
-<br>
+<br> :racehorse:
 
-"ELE E EU
-
-Tentando pôr em frases a minha mais oculta e sutil sensação – e desobedecendo à minha necessidade exigente de veracidade – eu diria: se pudesse ter escolhido queria ter nascido cavalo. Mas – quem sabe – talvez o cavalo ele-mesmo não sinta o grande símbolo da vida livre que nós sentimos nele. Devo então concluir que o cavalo seria sobretudo para ser sentido por mim? O cavalo representa a animalidade bela e solta do ser humano? O melhor do cavalo o ente humano já tem? Então abdico de ser um cavalo e com glória passo para a minha humanidade. O cavalo me indica o que sou." (by Clarice Lispector in *Seco estudo de cavalos*, published in *Onde estivestes de noite*)
+"[...] Tentando pôr em frases a minha mais oculta e sutil sensação – e desobedecendo à minha necessidade exigente de veracidade – eu diria: se pudesse ter escolhido queria ter nascido cavalo. Mas – quem sabe – talvez o cavalo ele-mesmo não sinta o grande símbolo da vida livre que nós sentimos nele. Devo então concluir que o cavalo seria sobretudo para ser sentido por mim? O cavalo representa a animalidade bela e solta do ser humano? O melhor do cavalo o ente humano já tem? Então abdico de ser um cavalo e com glória passo para a minha humanidade. O cavalo me indica o que sou." (by Clarice Lispector in *Seco estudo de cavalos*, published in *Onde estivestes de noite*)
 
 <br>
 
