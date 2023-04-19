@@ -86,21 +86,37 @@ Python     9 mins          >------------------------   04.03 %
 
 <br>
 
-#### If you are interested :lotus_position:
-
-- [Resume] (https://resume.creddle.io/resume/3uqfavqif9y) :clipboard:
-- [Journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
-
-
-## Favourite quotes :star:
+#### Favourite quotes :star:
 
 "[...] Yet many people only notice the solid world they have been conditioned to think of as more real...while all about them diamond glaciers creak and star-volcanoes thunder. 
+
 But what about ideas? Why do some people have better ideas than others?
+
 Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories.
+
 But you're saying anybody could explore this place if they wanted to?
-Yes, that's why Promethea's enemies find her so threatening. It's what she represents."
-(by Alan Moore in *Promethea* (v. 5))
+
+Yes, that's why Promethea's enemies find her so threatening. It's what she represents." (by Alan Moore in *Promethea* (v. 5))
+
+<br>
+
+"Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.
+
+A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.
+
+   -El mundo es eso – reveló-. Un montón de gente, un mar de fueguitos.
+
+   Cada persona brilla con luz propia entre todas las demás. No hay dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores. Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco, que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman; pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende." (by Eduardo Galeano in *El mundo*, published in *El libro de los abrazos*)
+
+<br>
 
 "ELE E EU
-Tentando pôr em frases a minha mais oculta e sutil sensação – e desobedecendo à minha necessidade exigente de veracidade – eu diria: se pudesse ter escolhido queria ter nascido cavalo. Mas – quem sabe – talvez o cavalo ele-mesmo não sinta o grande símbolo da vida livre que nós sentimos nele. Devo então concluir que o cavalo seria sobretudo para ser sentido por mim? O cavalo representa a animalidade bela e solta do ser humano? O melhor do cavalo o ente humano já tem? Então abdico de ser um cavalo e com glória passo para a minha humanidade. O cavalo me indica o que sou."
-(by Clarice Lispector in Seco estudo de cavalos, published in *Onde estivestes de noite*)
+
+Tentando pôr em frases a minha mais oculta e sutil sensação – e desobedecendo à minha necessidade exigente de veracidade – eu diria: se pudesse ter escolhido queria ter nascido cavalo. Mas – quem sabe – talvez o cavalo ele-mesmo não sinta o grande símbolo da vida livre que nós sentimos nele. Devo então concluir que o cavalo seria sobretudo para ser sentido por mim? O cavalo representa a animalidade bela e solta do ser humano? O melhor do cavalo o ente humano já tem? Então abdico de ser um cavalo e com glória passo para a minha humanidade. O cavalo me indica o que sou." (by Clarice Lispector in *Seco estudo de cavalos*, published in *Onde estivestes de noite*)
+
+<br>
+
+#### If you are interested :lotus_position:
+
+- [Resume](https://resume.creddle.io/resume/3uqfavqif9y) :clipboard:
+- [Journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
