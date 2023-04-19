@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 16 April 2023
+From: 13 April 2023 - To: 17 April 2023
 
 Total Time: 4 hrs 7 mins
 
