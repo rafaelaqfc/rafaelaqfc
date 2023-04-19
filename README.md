@@ -64,16 +64,6 @@
 
 <br>
 
-<br>
-
-## Quotes to be inspired :star2:
-
-*"Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories."* (by Alan Moore in *Promethea* (v. 5))
-
-*"Não preciso do fim para chegar. Do lugar one estou já fui embora"* (by Manoel de Barros in *Livro sobre Nada*)
-
-<br>
-
 <details>
 <summary> 
   More stuff about me :maple_leaf: 
@@ -97,7 +87,20 @@ Python     9 mins          >------------------------   04.03 %
 <br>
 
 #### If you are interested :lotus_position:
-- [My journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
-- [My resume] :clipboard:
-- [My portfolio]
 
+- [Resume] (https://resume.creddle.io/resume/3uqfavqif9y) :clipboard:
+- [Journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
+
+
+## Favourite quotes :star:
+
+"[...] Yet many people only notice the solid world they have been conditioned to think of as more real...while all about them diamond glaciers creak and star-volcanoes thunder. 
+But what about ideas? Why do some people have better ideas than others?
+Ideas grow like flowers here. Some are common ideas, found everywhere... but if you want the rarer ideas, the more exotic blossoms, you have to travel further. Artists, scientists, philosophers... they're the pioneers of these territories.
+But you're saying anybody could explore this place if they wanted to?
+Yes, that's why Promethea's enemies find her so threatening. It's what she represents."
+(by Alan Moore in *Promethea* (v. 5))
+
+"ELE E EU
+Tentando pôr em frases a minha mais oculta e sutil sensação – e desobedecendo à minha necessidade exigente de veracidade – eu diria: se pudesse ter escolhido queria ter nascido cavalo. Mas – quem sabe – talvez o cavalo ele-mesmo não sinta o grande símbolo da vida livre que nós sentimos nele. Devo então concluir que o cavalo seria sobretudo para ser sentido por mim? O cavalo representa a animalidade bela e solta do ser humano? O melhor do cavalo o ente humano já tem? Então abdico de ser um cavalo e com glória passo para a minha humanidade. O cavalo me indica o que sou."
+(by Clarice Lispector in Seco estudo de cavalos, published in *Onde estivestes de noite*)
