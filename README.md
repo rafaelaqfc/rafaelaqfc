@@ -117,4 +117,4 @@ A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida hu
 #### If you are interested :lotus_position:
 
 - [Resume](https://resume.creddle.io/resume/3uqfavqif9y) :clipboard:
-- [Journal](https://www.visualcv.com/app/cvs/2977209/preview) :newspaper_roll: 
+- [Journal](https://www.visualcv.com/pdfs/2977209) :newspaper_roll: 
