@@ -9,12 +9,12 @@
 
 ## Some words about me :shamrock:
 
-- I recently graduated in Data Science :disguised_face: from LightHouse Labs.
+- I recently graduated in Data Science :disguised_face: from Lighthouse Labs.
 - I'm currently updating my [Sentiment Analysis of Medication Reviews](https://github.com/rafaelaqfc/Sentiment-Analysis-of-Medication-Reviews-Project.git) :telescope: project.
 - I'm also actively learning R and PowerBI ⚡ to enhance my skills. 
 - As a holder of a Ph.D. in **Linguistics**, specifically in Discourse Analysis, I am constantly fueled by curiosity :speak_no_evil:. 
 - Feel free to ask me about :speech_balloon: the relationship between **Discourse Analysis**, **Machine Learning**, and **Bias**, and I would be thrilled to share my insights on the topic :thinking:. 
-- I am also eagerly looking forward to collaborating :dancers: on future **NLP** projects.
+- Im also eagerly looking forward to collaborating :dancers: on future **NLP** projects.
 - Whenever I have free time, I run to the kitchen to cook :stuffed_flatbread: or to the balcony to play with my beautiful dog :dog:.
 
 <br>
@@ -105,7 +105,7 @@ Yes, that's why Promethea's enemies find her so threatening. It's what she repre
 
 A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.
 
-   -El mundo es eso – reveló-. Un montón de gente, un mar de fueguitos.
+   - El mundo es eso – reveló -. Un montón de gente, un mar de fueguitos.
 
    Cada persona brilla con luz propia entre todas las demás. No hay dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores. Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco, que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman; pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende." (by Eduardo Galeano in *El mundo*, published in *El libro de los abrazos*)
 
