@@ -105,7 +105,7 @@ Yes, that's why Promethea's enemies find her so threatening. It's what she repre
 
 A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.
 
-   - El mundo es eso – reveló -. Un montón de gente, un mar de fueguitos.
+   -El mundo es eso – reveló -. Un montón de gente, un mar de fueguitos.
 
    Cada persona brilla con luz propia entre todas las demás. No hay dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores. Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco, que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman; pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende." (by Eduardo Galeano in *El mundo*, published in *El libro de los abrazos*)
 
