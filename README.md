@@ -11,7 +11,7 @@
 
 - I recently graduated in Data Science :disguised_face: from Lighthouse Labs.
 - I'm currently updating my [Sentiment Analysis of Medication Reviews](https://github.com/rafaelaqfc/Sentiment-Analysis-of-Medication-Reviews-Project.git) :telescope: project.
-- I'm also actively learning R and PowerBI ⚡ to enhance my skills. 
+- I'm also actively learning R, Stable Diffusion from Keras, and PowerBI ⚡ to enhance my skills. 
 - As a holder of a Ph.D. in **Linguistics**, specifically in Discourse Analysis, I am constantly fueled by curiosity :speak_no_evil:. 
 - Feel free to ask me about :speech_balloon: the relationship between **Discourse Analysis**, **Machine Learning**, and **Bias**, and I would be thrilled to share my insights on the topic :thinking:. 
 - Im also eagerly looking forward to collaborating :dancers: on future **NLP** projects.
