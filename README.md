@@ -55,19 +55,20 @@
 
 <br>
 
+## Git status :rainbow:
+<p align="left">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelaqfc&theme=tokyonight&hide=contribs,prs" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;" />
+</p>
+
+<br/>
+
 <details>
 <summary> 
   More stuff about me :maple_leaf: 
 </summary>
-<br>
-
-### Git status :rainbow:
-<p align="left">
-  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelaqfc&theme=tokyonight&hide=contribs,prs" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;" />
-</p>
-
 <br>
 
 ### Coding stats :custard:
@@ -106,17 +107,19 @@ Yes, that's why Promethea's enemies find her so threatening. It's what she repre
 
 A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.
 
-   -El mundo es eso – reveló -. Un montón de gente, un mar de fueguitos.
+-El mundo es eso – reveló -. Un montón de gente, un mar de fueguitos.
 
-   Cada persona brilla con luz propia entre todas las demás. No hay dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores. Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco, que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman; pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende." (by Eduardo Galeano in *El mundo*, published in *El libro de los abrazos*)
+Cada persona brilla con luz propia entre todas las demás. No hay dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores. Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco, que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman; pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear, y quien se acerca, se enciende." (by Eduardo Galeano in *El mundo*, published in *El libro de los abrazos*)
 
 <br> :racehorse:
 
 "[...] Tentando pôr em frases a minha mais oculta e sutil sensação – e desobedecendo à minha necessidade exigente de veracidade – eu diria: se pudesse ter escolhido queria ter nascido cavalo. Mas – quem sabe – talvez o cavalo ele-mesmo não sinta o grande símbolo da vida livre que nós sentimos nele. Devo então concluir que o cavalo seria sobretudo para ser sentido por mim? O cavalo representa a animalidade bela e solta do ser humano? O melhor do cavalo o ente humano já tem? Então abdico de ser um cavalo e com glória passo para a minha humanidade. O cavalo me indica o que sou." (by Clarice Lispector in *Seco estudo de cavalos*, published in *Onde estivestes de noite*)
 
-<br>
+</br>
 
 ### If you are interested :lotus_position:
 
 - [Resume](https://resume.creddle.io/resume/3uqfavqif9y) :clipboard:
 - [Journal](https://www.visualcv.com/pdfs/2977209) :newspaper_roll: 
+
+</details>
