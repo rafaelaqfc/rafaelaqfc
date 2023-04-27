@@ -55,7 +55,13 @@
 
 <br>
 
-## Git status :rainbow:
+<details>
+<summary> 
+  More stuff about me :maple_leaf: 
+</summary>
+<br>
+
+### Git status :rainbow:
 <p align="left">
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
@@ -64,12 +70,7 @@
 
 <br>
 
-<details>
-<summary> 
-  More about me :maple_leaf: 
-</summary>
-
-#### Coding stats :custard:
+### Coding stats :custard:
 <!--START_SECTION:waka-->
 
 ```text
@@ -87,7 +88,7 @@ Other      17 mins         >------------------------   02.96 %
 
 <br>
 
-#### Favourite quotes :star:
+### Favourite quotes :star:
 
 "[...] Yet many people only notice the solid world they have been conditioned to think of as more real...while all about them diamond glaciers creak and star-volcanoes thunder. 
 
@@ -115,7 +116,7 @@ A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida hu
 
 <br>
 
-#### If you are interested :lotus_position:
+### If you are interested :lotus_position:
 
 - [Resume](https://resume.creddle.io/resume/3uqfavqif9y) :clipboard:
 - [Journal](https://www.visualcv.com/pdfs/2977209) :newspaper_roll: 
