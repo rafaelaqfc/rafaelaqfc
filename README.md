@@ -63,8 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelaqfc&theme=tokyonight&hide=contribs,prs" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;" />
 </p>
 
-<br/>
-
 <details>
 <summary> 
   More stuff about me :maple_leaf: 
