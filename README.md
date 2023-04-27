@@ -66,7 +66,7 @@
 
 <details>
 <summary> 
-  More stuff about me :maple_leaf: 
+  More about me :maple_leaf: 
 </summary>
 
 #### Coding stats :custard:
