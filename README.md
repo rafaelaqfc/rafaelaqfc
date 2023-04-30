@@ -73,14 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 27 April 2023
+From: 13 April 2023 - To: 28 April 2023
 
-Total Time: 9 hrs 51 mins
+Total Time: 10 hrs 56 mins
 
-Markdown   4 hrs 2 mins    >>>>>>>>>>---------------   40.97 %
-Python     3 hrs 47 mins   >>>>>>>>>>---------------   38.38 %
-YAML       1 hr 44 mins    >>>>---------------------   17.71 %
-Other      17 mins         >------------------------   02.94 %
+Markdown   4 hrs 52 mins   >>>>>>>>>>>--------------   44.64 %
+Python     4 hrs           >>>>>>>>>----------------   36.73 %
+YAML       1 hr 44 mins    >>>>---------------------   15.98 %
+Other      17 mins         >------------------------   02.65 %
 ```
 
 <!--END_SECTION:waka-->
