@@ -58,7 +58,7 @@
 ## Git status :rainbow:
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/>
+  <!--- <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelaqfc&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;"/> -->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelaqfc&theme=tokyonight&hide=contribs,prs" alt="rafaelaqfc" style="border:none; padding: 10px; width: 400px; height: 200px;" />
 </p>
