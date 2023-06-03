@@ -72,17 +72,17 @@
 ### Coding stats :custard:
 <!--START_SECTION:waka-->
 
-```text
-From: 13 April 2023 - To: 31 May 2023
+```txt
+From: 13 April 2023 - To: 01 June 2023
 
-Total Time: 24 hrs 54 mins
+Total Time: 24 hrs 55 mins
 
-Python       12 hrs 27 mins  >>>>>>>>>>>>>------------   50.01 %
+Python       12 hrs 27 mins  >>>>>>>>>>>>>------------   50.02 %
 Markdown     5 hrs 30 mins   >>>>>>-------------------   22.09 %
 YAML         2 hrs 8 mins    >>-----------------------   08.60 %
 Other        1 hr 39 mins    >>-----------------------   06.65 %
 Bash         1 hr 7 mins     >------------------------   04.53 %
-TOML         1 hr 2 mins     >------------------------   04.18 %
+TOML         1 hr 2 mins     >------------------------   04.17 %
 XML          30 mins         >------------------------   02.05 %
 SQL          26 mins         -------------------------   01.80 %
 Git Config   0 secs          -------------------------   00.04 %
