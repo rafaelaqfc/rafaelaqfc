@@ -73,16 +73,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 30 September 2023
+From: 13 April 2023 - To: 01 October 2023
 
-Total Time: 170 hrs 6 mins
+Total Time: 171 hrs 39 mins
 
-Python           149 hrs 56 mins >>>>>>>>>>>>>>>>>>>>>>---   88.14 %
-Markdown         5 hrs 47 mins   >------------------------   03.40 %
-Other            4 hrs 27 mins   >------------------------   02.62 %
-TOML             2 hrs 30 mins   -------------------------   01.48 %
-YAML             2 hrs 8 mins    -------------------------   01.26 %
-Bash             1 hr 49 mins    -------------------------   01.07 %
+Python           151 hrs 28 mins >>>>>>>>>>>>>>>>>>>>>>---   88.25 %
+Markdown         5 hrs 47 mins   >------------------------   03.37 %
+Other            4 hrs 27 mins   >------------------------   02.60 %
+TOML             2 hrs 30 mins   -------------------------   01.47 %
+YAML             2 hrs 8 mins    -------------------------   01.25 %
+Bash             1 hr 49 mins    -------------------------   01.06 %
 Text             1 hr 12 mins    -------------------------   00.71 %
 JSON             37 mins         -------------------------   00.36 %
 XML              30 mins         -------------------------   00.30 %
