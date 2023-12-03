@@ -73,11 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 30 November 2023
+From: 13 April 2023 - To: 01 December 2023
 
-Total Time: 221 hrs 29 mins
+Total Time: 221 hrs 33 mins
 
-Python           198 hrs 30 mins >>>>>>>>>>>>>>>>>>>>>>---   89.62 %
+Python           198 hrs 34 mins >>>>>>>>>>>>>>>>>>>>>>---   89.63 %
 Markdown         7 hrs 25 mins   >------------------------   03.35 %
 Other            4 hrs 52 mins   >------------------------   02.20 %
 TOML             2 hrs 43 mins   -------------------------   01.23 %
